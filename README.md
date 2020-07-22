@@ -4,7 +4,7 @@ An 28 year old webdeveloper that :heart: learning new languages and to solve rea
 
 -  **Working on :** Solving real world problems with React, Kotlin and Kubernetes.
 -  **Learning :** Rust, Flutter, Go, Graphql, Kubernetes, trying to be a better writer.
--  **Languages :** `.php`, `.java`, `.kt`, `.go`, `.graphql`, `.ts`, `.js`.
+-  **Languages :** `.php`, `.java`, `.kt`, `.go`, `.graphql`, `.ts`, `.js`, `.jsx`, `.tsx`, `.svelte`, `.vue`.
 -  **Hobbies :** Fitness, Gaming, Movies.
 -  **Fact :** A critic of movies.
 
