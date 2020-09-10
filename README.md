@@ -18,5 +18,5 @@ An 28 year old webdeveloper that :heart: learning new languages and to solve rea
 - Read more books and less time behind the computer.
 
 ![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=oscarteg&count_private=true&show_icons=true)
-![Oscar's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarteg)](https://github.com/anuraghazra/github-readme-stats)
+![Oscar's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarteg)
 
