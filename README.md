@@ -2,7 +2,7 @@
 
 An 28 year old webdeveloper that :heart: learning new languages and to solve real world problems.
 
--  **Working on :** Solving real world problems with React, Kotlin and Kubernetes.
+-  **Working on :** Solving real world problems with React, Go and Kubernetes.
 -  **Learning :** Rust, Flutter, Go, Graphql, Kubernetes, trying to be a better writer.
 -  **Ask me about :** Anything!, I'm happy to help :smile:
 
