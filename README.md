@@ -6,7 +6,7 @@ An 28 year old webdeveloper that :heart: learning new languages and to solve rea
 -  **Learning :** Rust, Flutter, Go, Graphql, Kubernetes, trying to be a better writer.
 -  **Ask me about :** Anything!, I'm happy to help :smile:
 
--  **Languages :** `.php`, `.java`, `.kt`, `.go`, `.graphql`, `.ts`, `.js`, `.jsx`, `.tsx`, `.svelte`, `.vue`.
+-  **Languages :** `.php`, `.java`, `.kt`, `.go`, `.graphql`, `.ts`, `.js`, `.jsx`, `.tsx`, `.svelte`, `.vue`, `.rs`.
 -  **Hobbies :** Fitness, Gaming, Movies.
 -  **Fact :** A critic of movies.
 
