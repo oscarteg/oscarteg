@@ -10,13 +10,6 @@ An 28 year old webdeveloper that :heart: learning new languages and to solve rea
 -  **Hobbies :** Fitness, Gaming, Movies.
 -  **Fact :** A critic of movies.
 
-
-## My goals for 2020 are
-- Finishing my current projects (Kanban, Blackjack).
-- Finish the current blog posts that are in draft.
-- Creating an seedbox in Kubernetes.
-- Read more books and less time behind the computer.
-
 ![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=oscarteg&count_private=true&show_icons=true)
 ![Oscar's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarteg)
 
