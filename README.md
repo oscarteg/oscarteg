@@ -1,6 +1,6 @@
 # Hi there, I'm Oscar
 
-An 28 year old webdeveloper that :heart: learning new languages and to solve real world problems.
+An 30 year old webdeveloper that :heart: learning new languages and to solve real world problems.
 
 -  **Working on :** Solving real world problems with React
 -  **Learning :** Rust, Go, trying to be a better writer.
